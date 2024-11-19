@@ -1,0 +1,21 @@
+{
+  "name": "01.accordion",
+  "version": "1.0.0",
+  "main": "accordion.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha",
+    "start": "http-server -a localhost -p 3000 -P http://localhost:3000? -c-1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^10.8.2"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.48.2"
+  }
+}
