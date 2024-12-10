@@ -10,12 +10,12 @@ import page from '../lib/page.js';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyDry7uaE7ZYEVzoKfVRpPdB-W-_u2-N-UQ",
-    authDomain: "rent-a-cat-softuni-fightera.firebaseapp.com",
-    projectId: "rent-a-cat-softuni-fightera",
-    storageBucket: "rent-a-cat-softuni-fightera.firebasestorage.app",
-    messagingSenderId: "997177236922",
-    appId: "1:997177236922:web:7926f44a2ce913da89d183"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
 };
 
 // Initialize Firebase
